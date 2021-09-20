@@ -27,5 +27,5 @@ fetch("http://localhost:3000/api/cameras")
     //SI PROBLEME API
     .catch(function (err) {
         console.log("fetch Error")
-        alert("Veuillez nous exuser les produits ne sont pas disponible pour le moment ")
+        alert("Veuillez nous exuser les produits ne sont pas disponibles pour le moment ")
     });

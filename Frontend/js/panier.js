@@ -112,7 +112,7 @@ function sendOrder() {
       });
   }
   else{
-    alert(" Une erreur est survenue votre panier est  peux étre vide ou le formulaire n'a pas été correctement rempli!")
+    alert(" Une erreur est survenue votre panier est peut-être vide ou le formulaire n'a pas été correctement rempli!")
   };
 }
 
